@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi 👋 I'm Pavani
 
-<!--
-**Pavani-Yarlagadda/Pavani-Yarlagadda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://komarev.com/ghpvc/?username=hardeep0598)
+<img align='right' src="https://avatars3.githubusercontent.com/u/39173869?s=460&u=472808c26e312f404d7610f37bf7fd71ad84e843&v=4" width="230">
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Real world projects using Python.
+- 🌱 I’m currently learning Machine Learning.
+- 👯 I’m looking to collaborate on Web Development and Machine Learning.
+- 💬 Ask me about Anything that I'm interested in..
+- 📫 How to reach me: 
+- 😄 Pronouns: Paani,Pavs,Puppy,she/her
+- ⚡ Fun fact: 
+
