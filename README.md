@@ -9,7 +9,6 @@
 - 😄 Pronouns: Paani,Pavs,Puppy,she/her
 - ⚡ Fun fact: 
 <br>
-
 <h4> 💻 My Skills</h4>
 <ul><li>
   <!-- primary -->
@@ -21,7 +20,7 @@
   <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-264de4?style=flat-square&logo=CSS3&logoColor=white" />
   </li>
  </ul>
- <br>
+
  
  
 ![pavani's Github Stats](https://github-readme-stats.vercel.app/api?username=Pavani-Yarlagadda&show_icons=true_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
@@ -40,4 +39,5 @@
 <br>
 <br>
 <h5>Show ❤️ By Starring My Repos!<h5><br>
-<br>
+  
+:star: From [Pavani-Yarlagadda](https://github.com/Pavani-Yarlagadda/)
