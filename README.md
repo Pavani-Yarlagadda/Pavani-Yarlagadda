@@ -22,9 +22,15 @@
   </li>
  </ul>
  <br>
-<h4>Get in Touch</h4>
- | [<img src="https://github.com/hardeep0598/hardeep0598/blob/master/Linkedin.svg" alt="Linkedin Logo" width="32">](www.linkedin.com/in/pavani-yarlagadda-33aa25166) | [<img src="https://github.com/hardeep0598/hardeep0598/blob/master/Twitter.svg" alt="Twitter Logo" width="32">](https:) | [<img src="https://github.com/hardeep0598/hardeep0598/blob/master/Instagram.svg" alt="instagram logo" width="32">]()| [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">](https://github.com/) | [<img src="https://github.com/hardeep0598/hardeep0598/blob/master/HackerRank.svg" alt="HackerRank Logo" width="30">](https://www.hackerrank.com/) | [<img src="https://cdn.svgporn.com/logos/stackoverflow-icon.svg" alt="Stackoverflow Logo" width="28">]() | [<img src="https://cdn.svgporn.com/logos/medium.svg" alt="Medium Logo" width="30">]() | [<img src="https://github.com/hardeep0598/hardeep0598/blob/master/Gmail.svg" alt="Gmail logo" height="32">](mailto:pavaniy777@gmail.com)
+# Connect with me<img src="https://github.com/hardeep0598/hardeep0598/blob/master/Handshake.gif" height="32px">
+
+
+
+| [<img src="https://github.com/hardeep0598/hardeep0598/blob/master/Linkedin.svg" alt="Linkedin Logo" width="32">](https://www.linkedin.com/in/hardeepkaur0598/) | [<img src="https://github.com/hardeep0598/hardeep0598/blob/master/Twitter.svg" alt="Twitter Logo" width="32">](https://twitter.com/__Hardeepkaur__) | [<img src="https://github.com/hardeep0598/hardeep0598/blob/master/Instagram.svg" alt="instagram logo" width="32">](https://www.instagram.com/__hardeep_kaur__/)| [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">](https://github.com/hardeep0598) | [<img src="https://github.com/hardeep0598/hardeep0598/blob/master/HackerRank.svg" alt="HackerRank Logo" width="30">](https://www.hackerrank.com/hardeepkaur_0598) | [<img src="https://cdn.svgporn.com/logos/stackoverflow-icon.svg" alt="Stackoverflow Logo" width="28">](https://stackoverflow.com/users/12828896/hardeep-kaur) | [<img src="https://cdn.svgporn.com/logos/medium.svg" alt="Medium Logo" width="30">](https://medium.com/@hardeepkaur.0598) | [<img src="https://github.com/hardeep0598/hardeep0598/blob/master/Gmail.svg" alt="Gmail logo" height="32">](mailto:hardeepkaur.0598@gmail.com)
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+
+
+
 <br>
 <br>
 
