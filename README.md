@@ -7,7 +7,6 @@
 - 👯 I’m looking to collaborate on Web Development and Machine Learning.
 - 💬 Ask me about Anything that I'm interested in..
 - 😄 Pronouns: Paani,Pavs,Puppy,she/her
-<br>
 <h4> 💻 My Teck Stack</h4>
 <ul><li>
   <!-- primary -->
