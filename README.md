@@ -33,7 +33,5 @@
 
 <br>
 <br>
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
-
----
-
+## Show ❤️ By Starring My Repos!
+ ⭐️ From [Pavani-Yarlagadda](https://github.com/Pavani-Yarlagadda)
