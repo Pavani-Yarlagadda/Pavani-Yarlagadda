@@ -22,7 +22,7 @@
   </li>
  </ul>
  <br>
-# Connect with me<img src="https://github.com/hardeep0598/hardeep0598/blob/master/Handshake.gif" height="32px">
+<h4>Get In Touch</h4>
 
 
 
