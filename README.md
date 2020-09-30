@@ -22,7 +22,7 @@
   </li>
  </ul>
  <br>
- ![Dipto Chakrabartys Github Stats](https://github-readme-stats.vercel.app/api?username=Pavani-Yarlagadda&show_icons=true_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+ ![Pavani-Yarlagadda Github Stats](https://github-readme-stats.vercel.app/api?username=Pavani-Yarlagadda&show_icons=true_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
  <br>
 <h4>Get In Touch</h4>
