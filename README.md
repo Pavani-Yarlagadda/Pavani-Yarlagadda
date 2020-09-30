@@ -22,6 +22,9 @@
   </li>
  </ul>
  <br>
+ ![Dipto Chakrabartys Github Stats](https://github-readme-stats.vercel.app/api?username=Pavani-Yarlagadda&show_icons=true_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+
+ <br>
 <h4>Get In Touch</h4>
 
 
@@ -35,4 +38,3 @@
 <br>
 <h5>Show ❤️ By Starring My Repos!<h5><br>
 <br>
-⭐️ From [Pavani-Yarlagadda](https://github.com/[Pavani-Yarlagadda])
