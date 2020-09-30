@@ -7,9 +7,8 @@
 - 👯 I’m looking to collaborate on Web Development and Machine Learning.
 - 💬 Ask me about Anything that I'm interested in..
 - 😄 Pronouns: Paani,Pavs,Puppy,she/her
-- ⚡ Fun fact: 
 <br>
-<h4> 💻 My Skills</h4>
+<h4> 💻 My Teck Stack</h4>
 <ul><li>
   <!-- primary -->
   <img alt="C" src="https://img.shields.io/badge/-C-3776AB?style=flat-square&logo=c&logoColor=white" />
@@ -38,6 +37,7 @@
 
 <br>
 <br>
-<h5>Show ❤️ By Starring My Repos!<h5><br>
+<h5>Show ❤️ By Starring My Repos!<h5>
+---
   
 :star: From [Pavani-Yarlagadda](https://github.com/Pavani-Yarlagadda/)
