@@ -1,7 +1,7 @@
 ### Hi 👋 I'm Pavani
 
 ![](https://komarev.com/ghpvc/?username=Pavani-Yarlagadda)
-[![HitCount](http://hits.dwyl.com/ayushkumar-25/ayushkumar-25/ayushkumar-25.svg)](http://hits.dwyl.com/ayushkumar-25/Pavani-Yarlagadda/) <br>
+[![HitCount](http://hits.dwyl.com/ayushkumar-25/ayushkumar-25/ayushkumar-25.svg)](http://hits.dwyl.com/Pavani-Yarlagadda/Pavani-Yarlagadda/) <br>
 
 - 🔭 I’m currently working on Real world projects using Python.
 - 🌱 I’m currently learning Machine Learning.
