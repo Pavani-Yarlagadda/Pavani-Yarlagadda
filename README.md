@@ -22,8 +22,7 @@
   </li>
  </ul>
  <br>
- [![Pavani's's github stats](https://github-readme-stats.vercel.app/api?username=Pavani-Yarlagadda)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Hardeep's github stats](https://github-readme-stats.vercel.app/api?username=hardeep0598)](https://github.com/anuraghazra/github-readme-stats)
  <br>
 <h4>Get In Touch</h4>
 
