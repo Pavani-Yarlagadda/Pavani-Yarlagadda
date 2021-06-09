@@ -5,8 +5,8 @@
 - 🔭 I’m currently working on Real world projects using Python.
 - 🌱 I’m currently learning ReactJs.
 - 👯 I’m looking to collaborate on Web Development and Machine Learning.
-- 💬 Ask me about Anything that I'm interested in..
-- 😄 Pronouns: Paani,Pavs,Puppy,she/her
+- 💬 Ask me about Anything that I'm interested in :-)
+- 😄 Pronouns: Paani,Pavs,Puppy,she/her !!!
 <h4> 💻 My Teck Stack</h4>
 <ul><li>
   <!-- primary -->
