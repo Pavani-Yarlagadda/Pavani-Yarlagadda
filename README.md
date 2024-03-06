@@ -2,11 +2,10 @@
 
 ![](https://komarev.com/ghpvc/?username=Pavani-Yarlagadda)
 
-- 🔭 I’m currently working on Python.
-- 🌱 I’m currently learning MERN Stack.
-- 👯 I’m looking to collaborate on Web Development and Machine Learning.
+- 🔭 I’m currently working on SAP ABAP.
+- 🌱 I’m currently learning S/4 HANA and ODATA services.
+- 👯 I’m looking to collaborate on ABAP development.
 - 💬 Ask me about Anything that I'm interested in :-)
-- 😄 Pronouns: Paani,Pavs,Puppy,she/her !!!
 <h4> 💻 My Teck Stack</h4>
 <ul><li>
   <!-- primary -->
