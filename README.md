@@ -9,7 +9,9 @@
 <h4> 💻 My Teck Stack</h4>
 <ul>
   <li> ABAP </li>
+  <li> OOABAP </li>
   <li> ABAP FORMS </li>
+  <li> IDOCS </li>
   <li> PYTHON </li>
   <li> HTML5 & CSS3 </li>
   <li> JAVASCRIPT </li>
